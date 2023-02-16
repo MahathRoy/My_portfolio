@@ -1,0 +1,8 @@
+/* Author : Midhun Roy 
+Time : 12:05 pm*/
+.logo-width {
+	width: 60%;
+}
+.port_folio img:hover {
+	transform: translate(10px, 10px);
+}
